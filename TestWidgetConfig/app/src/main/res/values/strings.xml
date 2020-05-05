@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestWidgetConfig</string>
+    <string name="widget_name"></string>
+    <string name="widget_text">Time</string>
+</resources>
